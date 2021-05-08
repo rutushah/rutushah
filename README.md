@@ -4,7 +4,7 @@
  <p> <b> Hi :raising_hand:, I am Rutu Shah  👋 :raising_hand:, I am from Ahmedabad, Gujarat, India.
   <br> I am Test Automation Engineer :computer: :computer: </b> <img src = "https://user-images.githubusercontent.com/36071899/117544727-56778100-b040-11eb-98f6-7e6b02e22091.gif" align = "right" height = "350" width = "350"> </p>
   
-  <p> I am an organism :princess: that converts coffee :coffee: :coffee: into code :computer: :computer:
+  <p> <b> I am an organism :princess: that converts coffee :coffee: :coffee: into code. </b> :computer: :computer:
 
 #### Languages 🛠 🛠 🛠
 <p> <img src = "https://user-images.githubusercontent.com/36071899/117545525-bcb1d300-b043-11eb-935f-23df6fc332fd.png" height = "30" width = "30"> &nbsp;
