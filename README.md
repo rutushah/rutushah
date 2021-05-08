@@ -1,8 +1,8 @@
-### Hey Folks 👋
+### Hey World !!! 👋
 
      
- <p> <b> Hi :raising_hand:, I am Rutu Shah  👋 :raising_hand:, I am from Ahmedabad, Gujarat, India.
-  <br> I am Test Automation Engineer :computer: :computer: </b> <img src = "https://user-images.githubusercontent.com/36071899/117544727-56778100-b040-11eb-98f6-7e6b02e22091.gif" align = "right" height = "350" width = "350"> </p>
+ <p> <b> Hi I am Rutu Shah  :raising_hand:, I am from Ahmedabad, Gujarat, India.
+  <br> I am Test Automation Engineer :computer: :computer: and I am active learner, I learn skills and then implement them in my projects. I am currently pursing post graduation in Computer Science Technology - Software Testing. </b> <img src = "https://user-images.githubusercontent.com/36071899/117544727-56778100-b040-11eb-98f6-7e6b02e22091.gif" align = "right" height = "350" width = "350"> </p>
   
   <p> <b> I am an organism :princess: that converts coffee :coffee: :coffee: into code. </b> :computer: :computer:
 
@@ -29,17 +29,17 @@
  <img src = "https://user-images.githubusercontent.com/36071899/117546760-aad32e80-b049-11eb-851b-5381a748d330.png " height = "20" width = "80"> &nbsp;
  <img src = "https://user-images.githubusercontent.com/36071899/117546765-b3c40000-b049-11eb-87e3-69531cc642ab.png " height = "20" width = "80"> &nbsp; </p>
 
-<!--
-**rutushah/rutushah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## More about me :
+ 
+- 🌱 I’m currently learning Rest Assured Apis and Javascript for javascript automation :computer:.
+- 📄 I have 1.5 years of experience in web :computer: and mobile :iphone: automation testing.
+- 📝 Now-a-days, I am writing blogs and make youtube videos to help fellow testers/developers and beginners 
+- ⚡ Fun fact: I still watch cartoons, and nostalgic about 90s.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Latest Articles : 
+1. <a href = "https://medium.com/@rutu.shah/jenkins-installation-in-mac-os-fcb3aeb520b8" > Jenkins setup and installation in Mac- OS.
+2. <a href = "https://rutushah105.medium.com/compile-your-first-java-program-using-notepad-for-beginners-d42b5d6d607b">Compile Your First Java program using notepad for beginners.
+3. <a href = "https://rutushah105.medium.com/reasons-why-automation-testing-technique-of-software-testing-is-essential-in-2021-5190469ce72c">Reasons why Automation Testing technique of Software Testing is essential in 2021.
+
+
