@@ -33,7 +33,7 @@
 ## More about me :
  
 - 🌱 I’m currently student at Cégep de la Gaspésie et des Îles montreal campus in Computer Science Technology - Software Testing :computer:.
-- 📄 I have 1.5 years of experience in web :computer: and mobile :iphone: automation testing.
+- 📄 I have 2.5 years of experience in web :computer: and mobile :iphone: automation testing.
 - 📝 Now-a-days, I am writing blogs on my blogsite QaCaffe by RahulR to help fellow testers/developers and beginners 
 - ⚡ Fun fact: I still watch cartoons, and nostalgic about 90s.
 
