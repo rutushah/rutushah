@@ -7,7 +7,7 @@
   <p> <b> I am an organism :princess: that converts coffee :coffee: :coffee: into code. </b> :computer: :computer:
 
 #### Languages 🛠 🛠 🛠
-<p> <img src = "https://user-images.githubusercontent.com/36071899/117545525-bcb1d300-b043-11eb-935f-23df6fc332fd.png" height = "30" width = "30"> &nbsp;
+<p> <img src = "![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)" height = "30" width = "30"> &nbsp;
 <img src = "https://user-images.githubusercontent.com/36071899/117545560-ed920800-b043-11eb-973f-48af0e0e2041.png" height = "30" width = "30"> &nbsp;
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height = "30" width = "30"> </p>
 
