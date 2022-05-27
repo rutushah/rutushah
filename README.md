@@ -27,10 +27,11 @@
 
 
 #### Operating Systems :computer: :computer: :computer:
-<p> <img src = "https://user-images.githubusercontent.com/36071899/117546747-9abb4f00-b049-11eb-96ec-b1dcca4e8ae2.png" height = "20" width = "80"> &nbsp;
- <img src = "https://user-images.githubusercontent.com/36071899/117546752-a3138a00-b049-11eb-801e-016a7399ef1c.png " height = "20" width = "80"> &nbsp;
- <img src = "https://user-images.githubusercontent.com/36071899/117546760-aad32e80-b049-11eb-851b-5381a748d330.png " height = "20" width = "80"> &nbsp;
- <img src = "https://user-images.githubusercontent.com/36071899/117546765-b3c40000-b049-11eb-87e3-69531cc642ab.png " height = "20" width = "80"> &nbsp; </p>
+<p> <img src = "https://user-images.githubusercontent.com/36071899/117546747-9abb4f00-b049-11eb-96ec-b1dcca4e8ae2.png" height = "30" width = "80"> &nbsp;
+ <img src = "https://user-images.githubusercontent.com/36071899/117546752-a3138a00-b049-11eb-801e-016a7399ef1c.png " height = "30" width = "80"> &nbsp;
+ <img src = "https://user-images.githubusercontent.com/36071899/117546760-aad32e80-b049-11eb-851b-5381a748d330.png " height = "30" width = "80"> &nbsp;
+ <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " height = "30" width = "80"> &nbsp;
+ <img src = "https://user-images.githubusercontent.com/36071899/117546765-b3c40000-b049-11eb-87e3-69531cc642ab.png " height = "30" width = "80"> &nbsp; </p>
 
 
 ## More about me :
