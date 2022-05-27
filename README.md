@@ -35,6 +35,8 @@
 
 ## Projects Done by me :
 - <p> <a href = "https://github.com/rutushah/RSPPedlar"> RSP Pedlar - Real Estate Website. </a> </p>
+- <p> <a href = "https://github.com/rutushah/Note-Taking-App"> Note Taking Application. </a> </p>
+
 
 ## More about me :
  
