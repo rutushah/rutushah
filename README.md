@@ -1,7 +1,7 @@
 ### Hey World !!! 👋
 
      
- <p> <b> Hi I am  <a href = "https://github.com/rutushah" > Rutu Shah </a>  :raising_hand:, I am Montreal, Quebec, Canada. <br> Presently I am a student in Cégep de la Gaspésie et des Îles Montreal Campus.
+ <p> <b> Hi I am Rutu Shah :raising_hand:, I am Montreal, Quebec, Canada. <br> Presently I am a student in Cégep de la Gaspésie et des Îles Montreal Campus.
   <br> I am Software Engineer :computer: :computer: and I am active learner, I learn skills and then implement them in my projects. I am currently pursing post graduation in Computer Science Technology - Software Testing. </b> <img src = "https://user-images.githubusercontent.com/36071899/117544727-56778100-b040-11eb-98f6-7e6b02e22091.gif" align = "right" height = "350" width = "350"> </p>
   
   <p> <b> I am an organism :princess: that converts coffee :coffee: :coffee: into code. </b> :computer: :computer:
