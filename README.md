@@ -33,6 +33,8 @@
  <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white " height = "30" width = "80"> &nbsp;
  <img src = "https://user-images.githubusercontent.com/36071899/117546765-b3c40000-b049-11eb-87e3-69531cc642ab.png " height = "30" width = "80"> &nbsp; </p>
 
+## Projects Done by me :
+- <p> <a href = "https://github.com/rutushah/RSPPedlar"> RSP Pedlar - Real Estate Website. </a> </p>
 
 ## More about me :
  
@@ -46,5 +48,4 @@
 1. <a href = "https://medium.com/@rutu.shah/jenkins-installation-in-mac-os-fcb3aeb520b8" > Jenkins setup and installation in Mac- OS.
 2. <a href = "https://rutushah105.medium.com/compile-your-first-java-program-using-notepad-for-beginners-d42b5d6d607b">Compile Your First Java program using notepad for beginners.
 3. <a href = "https://rutushah105.medium.com/reasons-why-automation-testing-technique-of-software-testing-is-essential-in-2021-5190469ce72c">Reasons why Automation Testing technique of Software Testing is essential in 2021.
-
-
+   
