@@ -1,8 +1,16 @@
-### Hey World !!! 👋
+
 
      
- <p> <b> Hi I am Rutu Shah :raising_hand:, residing in Montreal, Quebec, Canada. <br> Presently I am a student in Cégep de la Gaspésie et des Îles Montreal Campus.
-  <br> I am Software Engineer :computer: :computer: and I am active learner, I learn skills and then implement them in my projects. I am currently pursing post graduation in Computer Science Technology - Software Testing. </b> <img src = "https://user-images.githubusercontent.com/36071899/117544727-56778100-b040-11eb-98f6-7e6b02e22091.gif" align = "right" height = "350" width = "350"> </p>
+ # Rutu Shah
+
+## Software Engineer | Active Learner | Tech Enthusiast
+
+Currently based in Dallas, Texas, I am a Software Engineer at Phoenix Innovations LLC. With a strong foundation in Python as my main tech stack, I specialize in creating innovative solutions and delivering impactful projects.
+
+Previously, I lived in Montreal, Quebec, Canada, where I completed my studies at Cégep de la Gaspésie et des Îles Montreal Campus and worked as a Software Engineer for 1.5 years. Now, I am pursuing a Master's in Computer Science at the University of the Cumberlands to deepen my technical expertise and broaden my knowledge in advanced computing.
+
+Driven by curiosity, I love exploring new places and learning cutting-edge technologies. My passion lies in blending creativity and technical skills to craft efficient, user-focused software solutions.
+ </b> <img src = "https://user-images.githubusercontent.com/36071899/117544727-56778100-b040-11eb-98f6-7e6b02e22091.gif" align = "right" height = "350" width = "350"> </p>
   
   <p> <b> I am an organism :princess: that converts coffee :coffee: :coffee: into code. </b> :computer: :computer:
 
@@ -34,17 +42,21 @@
  <img src = "https://user-images.githubusercontent.com/36071899/117546765-b3c40000-b049-11eb-87e3-69531cc642ab.png " height = "30" width = "80"> &nbsp; </p>
 
 ## Projects Done by me 💻 🖥️ 💻
+- <p> <a href = "https://github.com/rutushah/Inventory_Management_System"> Inventory Management System. </a> </p>
+- <p> <a href = "https://github.com/rutushah/High-Performance-Computing"> High Performance Computing. </a> </p>
+- <p> <a href = "https://github.com/rutushah/NumberGuessing"> Number Guessing Game. </a> </p>
+- <p> <a href = "https://github.com/rutushah/Skyline_Public_Library"> SkyLine Public Library. </a> </p>
 - <p> <a href = "https://github.com/rutushah/RSPPedlar"> RSP Pedlar - Real Estate Website. </a> </p>
 - <p> <a href = "https://github.com/rutushah/Note-Taking-App"> Note Taking Application. </a> </p>
 
 
 ## More about me 👧
  
-- 🌱 I’m currently student at Cégep de la Gaspésie et des Îles montreal campus in Computer Science Technology - Software Testing :computer:
+- 🌱 Presently, I am pursuing my Masters in Computers from University of Cumberlands, in United States :computer:
 - 💻 I am more indulged in developing software development
-- 📄 I have hands-on experience in Web Developement using PHP and Javascript. 
+- 📄 I have hands-on experience in Web Developement using PHP, Python Flask framework and Javascript. 
 - 📄 I have hands-on experience in web :computer: and mobile :iphone: automation testing.
-- 📝 I also write blogs on my blogsite QaCaffe by RahulR to help fellow testers/developers and beginners 
+- 📝 I also write blogs on my medium account <a href = "https://medium.com/@rutushah105"> Rutu's BlogSite </a>
 - ⚡ Fun fact: I still watch cartoons, and nostalgic about 90s.
 
 ## Latest Articles : 
