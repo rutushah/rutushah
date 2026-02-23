@@ -62,23 +62,23 @@ Built an LLM-integrated configuration management tool enabling dynamic rule vali
 
 ### Backend, APIs & Integrations
 - **A Comprehensive Guide to UPS API Integration** — shipping workflows, tracking, and integration overview  
-  https://rutushah105.medium.com/a-comprehensive-guide-to-ups-api-integration
-
+https://medium.com/@rutushah105/a-comprehensive-guide-to-ups-api-integration-685165e0c2af
+ 
 ### AI, Python & Web Apps
 - **Build a Simple Q&A Chatbot with Python, Django, and ChatterBot** — building a chatbot using Django + ChatterBot  
   https://rutushah105.medium.com/build-a-simple-q-a-chatbot-with-python-django-and-chatterbot-3f17966c9d6f
 
 ### Developer Setup & Tooling
 - **Complete Guide to Setting Up Flutter Development Environment on macOS (Apple Silicon)** — environment setup guide for macOS ARM  
-  https://rutushah105.medium.com/complete-guide-to-setting-up-flutter-development-environment-on-macos-with-apple-silicon-chip
-
+https://rutushah105.medium.com/complete-guide-to-setting-up-flutter-development-environment-on-macos-with-apple-silicon-chip-dee272e5347a
+  
 ### Systems & Architecture
 - **Centralized System: Shared Memory Architectures** — shared memory concepts and system design fundamentals  
   https://rutushah105.medium.com/centralized-system-shared-memory-architectures-8b7b72fdce19
 
 ### Testing & Quality Engineering
 - **What is Performance Testing for Beginners?** — performance testing basics and terminology  
-  https://rutushah105.medium.com/what-is-performance-testing-for-beginners
+  [https://rutushah105.medium.com/what-is-performance-testing-for-beginners](https://rutushah105.medium.com/performance-testing-36b1b13f529c)
 - **Reasons Why Automation Testing Is Essential** — automation value, benefits, and practical perspective  
   https://rutushah105.medium.com/reasons-why-automation-testing-technique-of-software-testing-is-essential-in-2021-5190469ce72c
 
