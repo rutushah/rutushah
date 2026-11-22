@@ -10,10 +10,10 @@
 
 ### 👩‍💻 About Me
 
-Software Engineer with experience in backend development, workflow automation, and enterprise-based SaaS application design.
-Experienced in building scalable, production-ready systems that support high-volume operational workflows and automation platforms.
-
-Strong foundation in backend engineering, system design, database architecture, and test automation. Passionate about developing reliable, maintainable software solutions that enhance system performance and business efficiency.
+Software Development Engineer in Test (SDET) experienced in designing and executing software test plans, test cases, test protocols, and automated tests for
+enterprise web, mobile, and API applications. Proficient in Python, Java, Selenium WebDriver, Playwright, Pytest, Appium, and REST API automation. Skilled in
+software verification and validation (V&V), requirements traceability, functional and integration testing, defect management, SQL data validation, and CI/CD.
+Experienced with TestRail, Jira, Agile methodologies, and cross-functional engineering collaboration to improve software quality and release readiness.
 
 ---
 
@@ -47,15 +47,19 @@ Designed and developed a scalable backend-driven SaaS application supporting lif
 
 ---
 
-### 🔹 Collaborative Task Management System (Java vs JavaScript)  
-Engineered a multi-user task management platform with concurrent access handling and role-based task views. Demonstrated cross-language architectural comparison, thread management (Java), and asynchronous programming patterns (JavaScript) with PostgreSQL persistence.  
-**Tech Stack:** Java, JavaScript (Node.js), PostgreSQL  
+### 🔹 PrepPilot
+## Develop a full-stack web application that processes uploaded PDF documents and generates personalized learning quizzes.
+## Build reusable application components supporting document uploads, interactive question-and-answer interfaces, and dynamic quiz generation.
+## Implement quiz submission, automated scoring, and progress-tracking functionality with PostgreSQL-backed data persistence.
+**Tech Stack:** Next.js, React, TypeScript, PostgreSQL, Drizzle ORM, OpenAI
 
 ---
 
-### 🔹 AI-Powered Rule & Configuration Assistant  
-Built an LLM-integrated configuration management tool enabling dynamic rule validation, intelligent query responses, and workflow automation support. Designed a user-friendly interface for rule parsing, validation logic, and deployment simulation.  
-**Tech Stack:** Python, Streamlit, LLM APIs  
+### 🔹 PDF RAG Chatbot
+## Developed a document-based question-answering application using React, TypeScript, Node.js, and Express.js.
+##  Integrated asynchronous frontend and backend workflows to process uploaded PDFs and retrieve relevant information.
+## Implemented document parsing, text chunking, embeddings, and semantic retrieval to generate context-aware responses.  
+**Tech Stack:** React, TypeScript, Node.js, Express, LangChain.js, OpenAI
 
 ---
 ## 📚 Publications & Technical Writing
