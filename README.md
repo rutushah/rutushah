@@ -48,17 +48,17 @@ Designed and developed a scalable backend-driven SaaS application supporting lif
 ---
 
 ### 🔹 PrepPilot
-## Develop a full-stack web application that processes uploaded PDF documents and generates personalized learning quizzes.
-## Build reusable application components supporting document uploads, interactive question-and-answer interfaces, and dynamic quiz generation.
-## Implement quiz submission, automated scoring, and progress-tracking functionality with PostgreSQL-backed data persistence.
+- Develop a full-stack web application that processes uploaded PDF documents and generates personalized learning quizzes.
+- Build reusable application components supporting document uploads, interactive question-and-answer interfaces, and dynamic quiz generation.
+- Implement quiz submission, automated scoring, and progress-tracking functionality with PostgreSQL-backed data persistence.
 **Tech Stack:** Next.js, React, TypeScript, PostgreSQL, Drizzle ORM, OpenAI
 
 ---
 
 ### 🔹 PDF RAG Chatbot
-## Developed a document-based question-answering application using React, TypeScript, Node.js, and Express.js.
-##  Integrated asynchronous frontend and backend workflows to process uploaded PDFs and retrieve relevant information.
-## Implemented document parsing, text chunking, embeddings, and semantic retrieval to generate context-aware responses.  
+- Developed a document-based question-answering application using React, TypeScript, Node.js, and Express.js.
+- Integrated asynchronous frontend and backend workflows to process uploaded PDFs and retrieve relevant information.
+- Implemented document parsing, text chunking, embeddings, and semantic retrieval to generate context-aware responses.  
 **Tech Stack:** React, TypeScript, Node.js, Express, LangChain.js, OpenAI
 
 ---
